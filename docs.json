@@ -35,7 +35,8 @@
           {
             "group": "Palworld",
             "pages": [
-              "palworld/about"
+              "palworld/about",
+              "palworld/community-guidelines"
             ]
           }
         ]
